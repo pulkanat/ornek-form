@@ -1,0 +1,35 @@
+.form.kutu {
+	margin: auto;
+	background-color: #9999CC;
+	padding: 10px;
+}
+fieldset {
+	margin: 10px;
+}
+
+.form.etiket {
+	float: right;
+}
+
+table {
+	margin: auto;
+}
+
+td.bilgi {
+	padding: 5px;
+	background-color: #9999CC;
+	
+}
+td.bilgi.baslik {
+	background-color: #7777AA;
+}
+td.bilgi.son {
+	background-color: #77AA77;
+}
+
+.pagi {
+	text-align: center;
+}
+.pagi.js{
+	margin: 0 3px;
+}
